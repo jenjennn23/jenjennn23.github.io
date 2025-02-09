@@ -29,6 +29,8 @@ latest_posts:
 
 I'm currently a Clinical Research Coordinator at Stanford University working with Dr. Anthony Wagner and Dr. Beth Mormino. 
 
+I recently applied to Cognitive Psychology graduate programs to start in Fall 2025. 
+
 My research interests lie in how we leverage memories to anticipate future experiences and the subsequent consequences of our memory-guided predictions to learning and memory.
 
 You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
