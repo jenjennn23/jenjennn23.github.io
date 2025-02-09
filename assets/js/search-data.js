@@ -389,12 +389,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-presented-a-poster-at-sfn-on-the-role-of-spatial-context-on-associative-inference-in-young-and-older-adults",
+    },{id: "news-presented-a-poster-at-sfn-on-the-role-of-spatial-context-on-associative-inference-in-young-and-older-adults",
           title: 'Presented a poster at SFN on the role of spatial context on associative...',
           description: "",
           section: "News",},{id: "projects-project-1",
