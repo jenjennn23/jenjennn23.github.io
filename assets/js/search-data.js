@@ -394,10 +394,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-presented-a-poster-at-sfn-on-the-role-of-spatial-context-on-associative-inference-in-young-and-older-adults",
+            },},{id: "news-presented-a-poster-at-sfn-on-the-role-of-spatial-context-on-associative-inference-in-young-and-older-adults",
           title: 'Presented a poster at SFN on the role of spatial context on associative...',
           description: "",
           section: "News",},{id: "projects-project-1",
