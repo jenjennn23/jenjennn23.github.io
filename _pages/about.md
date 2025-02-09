@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm currently a Clinical Research Coordinator at Stanford University working with Dr. Anthony Wagner and Dr. Beth Mormino. 
+I'm currently a Clinical Research Coordinator at Stanford University working with [Dr. Anthony Wagner](https://memorylab.stanford.edu/) and [Dr. Beth Mormino](https://med.stanford.edu/mormino-lab.html). 
 
 I recently applied to Cognitive Psychology graduate programs to start in Fall 2025. 
 
