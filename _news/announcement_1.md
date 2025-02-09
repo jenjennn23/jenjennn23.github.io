@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented a poster at SFN on the role of spatial context on associative inference in young and older adults!
+Presented a poster at SFN on the role of spatial context on associative inference!
