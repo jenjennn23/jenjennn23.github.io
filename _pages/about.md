@@ -29,7 +29,3 @@ I'm currently a Clinical Research Coordinator at Stanford University working wit
 I recently applied to Cognitive Psychology graduate programs to start in Fall 2025. 
 
 My research interests lie in how we leverage memories to anticipate future experiences and the subsequent consequences of our memory-guided predictions to learning and memory.
-
-You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. 
