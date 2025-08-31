@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an incoming first year Cognitive Psychology PhD student at UC Berkeley, advised by Dr. Mariam Aly. Prior to Berkeley, I worked as a research coordinator at Stanford (with Dr. Anthony Wagner & Dr. Beth Mormino) and at UC Davis. I earned my Bachelor of Arts degree in Neuroscience and a minor in Psychology at the University of Southern California (fight on!). My dream is to become a professor and open my own memory lab one day.
+I'm a first year Cognitive Psychology PhD student at UC Berkeley, advised by Dr. Mariam Aly. Prior to Berkeley, I worked as a research coordinator at Stanford (with Dr. Anthony Wagner & Dr. Beth Mormino) and at UC Davis. I earned my Bachelor of Arts degree in Neuroscience and a minor in Psychology at the University of Southern California (fight on!). My dream is to become a professor and open my own memory lab one day.
 
 My research interests lie in understanding how we leverage episodic memories to generate predictions about the world around us, and how mnemonic predictions & mnemonic prediction errors shape learning and memory. Broadly, I'm interested in the intersection of episodic memory, prediction, and cognitive mechanisms that support adaptive behavior. In short, I'm fascinated by all things episodic memory!
 
